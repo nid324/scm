@@ -1,0 +1,2 @@
+this is the test command for scm class on january 24
+checking all the connamd 
